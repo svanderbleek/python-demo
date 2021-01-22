@@ -1,0 +1,9 @@
+Tested with Python version 3.8.2.
+
+Run using command line:
+
+python3 slcsp.py
+
+Test of "second_lowest" functionality can run with doctest:
+
+python3 -m doctest -v slcsp.py
